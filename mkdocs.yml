@@ -275,8 +275,6 @@ pages:
     - Multi-homed VMs: openstack-multiple-networks.md
     - Extended Registry configuration: openstack-registry.md
     - Self-signed Endpoints: openstack-self-signed-endpoints.md
-  - RackHD:
-    - Usage: rackhd-cpi.md
   - SoftLayer:
     - Usage: softlayer-cpi.md
   - VirtualBox:
